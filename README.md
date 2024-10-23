@@ -1,5 +1,6 @@
 # lqsn-gitz-1
 LQSNGitPAnty
+- Teztings up and down 
 
 # Actions 
 
